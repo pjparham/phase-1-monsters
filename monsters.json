@@ -6005,6 +6005,24 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Parker Parham",
+      "age": 25,
+      "description": "Sexy beast.",
+      "id": 1002
+    },
+    {
+      "name": "Hydra",
+      "age": "2343.5345",
+      "description": "The Hydra possessed many heads, the exact number of which varies according to the source. Later versions of the Hydra story add a regeneration feature to the monster: for every head chopped off, the Hydra would regrow two heads.",
+      "id": 1003
+    },
+    {
+      "name": "Elmo",
+      "age": "4",
+      "description": "Kind red creature",
+      "id": 1004
     }
   ]
 }
